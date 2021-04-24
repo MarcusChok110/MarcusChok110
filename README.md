@@ -15,7 +15,6 @@ If you ever want to talk, you can find me on [LinkedIn](https://www.linkedin.com
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
