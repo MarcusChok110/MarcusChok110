@@ -1,6 +1,6 @@
 ## Hello, everyone! 👋
 
-My name is Marcus Chok, a computer science student at the University of Waterloo. I love working on web applications, frontend or backend! You can see some of my side projects below. I've worked on many things, from a full-stack expense tracker to an app to manage your MyAnimeList accounts! For me, code has always been a way for me to express myself and simplify my life, and that's exactly what you'll see in my repos.
+My name is Marcus Chok, and I'm a computer science student at the University of Waterloo. I love working on web applications, frontend or backend! You can see some of my side projects below. I've worked on many things, from a full-stack expense tracker to an app to manage your MyAnimeList accounts! For me, code has always been a way for me to express myself and simplify my life, and that's exactly what you'll see in my repos.
 
 If you ever want to talk, you can find me on [LinkedIn](https://www.linkedin.com/in/marcus-chok/) or email me at marcus.chok110@gmail.com.
 
