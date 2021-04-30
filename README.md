@@ -18,7 +18,7 @@ If you ever want to talk, you can find me on [LinkedIn](https://www.linkedin.com
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-ASP.NET_CORE-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-ASP.NET_Core-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
