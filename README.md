@@ -6,6 +6,7 @@ If you ever want to talk, you can find me on [LinkedIn](https://www.linkedin.com
 
 ## Technologies I've worked with
 
+![](https://img.shields.io/badge/Operating_System-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Operating_System-macOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
